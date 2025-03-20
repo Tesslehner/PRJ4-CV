@@ -49,3 +49,7 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+.custom-heading {
+    font-family: 'sans-serif' ; /* Change the font */
+    color: #ffffff; /* Change the color */
+}
