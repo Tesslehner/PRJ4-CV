@@ -40,7 +40,7 @@ body {
 }
 
 .biography-details li, .skill-list li {
-	padding-left: 1em;
+	padding-left: 1em; 
 }
 
 /* Styles for contact icons */
@@ -63,3 +63,11 @@ body {
 	
 .language-level {
 		border: #b42e2e !important;
+}
+
+.inter-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
